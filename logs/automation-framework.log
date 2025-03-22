@@ -1,0 +1,738 @@
+2024-12-14 14:35:17 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mandar\AppData\Local\Temp\testng-eclipse--123219538\testng-customsuite.xml"
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mandar\AppData\Local\Temp\testng-eclipse--123219538\testng-customsuite.xml
+
+2024-12-14 14:35:18 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2024-12-14 14:35:41 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2024-12-14 14:35:42 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2024-12-14 14:35:43 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2024-12-14 14:35:43 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2024-12-14 14:35:45 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2024-12-14 14:35:45 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test failed..
+2024-12-14 14:35:45 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Debug logs..
+2024-12-14 14:35:45 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5e9456ae: 146 ms
+2024-12-14 14:35:46 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5754de72: 17 ms
+2024-12-14 14:35:46 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@26ae880a: 13 ms
+2024-12-14 14:35:46 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@29c5ee1d: 15 ms
+2024-12-14 14:35:46 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@656d10a4: 18 ms
+2024-12-14 14:35:46 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@63ec445c: 0 ms
+2024-12-14 14:39:59 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mandar\AppData\Local\Temp\testng-eclipse--59337541\testng-customsuite.xml"
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 72 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 33 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mandar\AppData\Local\Temp\testng-eclipse--59337541\testng-customsuite.xml
+
+2024-12-14 14:40:00 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 29 ms.
+2024-12-14 14:40:22 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2024-12-14 14:40:23 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2024-12-14 14:40:24 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2024-12-14 14:40:24 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2024-12-14 14:40:26 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2024-12-14 14:40:26 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2024-12-14 14:40:26 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@7435a578: 146 ms
+2024-12-14 14:40:26 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6093d508: 1 ms
+2024-12-14 14:40:26 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@432034a: 12 ms
+2024-12-14 14:40:26 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@35d3ab60: 6 ms
+2024-12-14 14:40:26 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@675ffd1d: 9 ms
+2024-12-14 14:40:26 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@56303475: 1 ms
+2024-12-14 14:45:22 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mandar\AppData\Local\Temp\testng-eclipse-1694805503\testng-customsuite.xml"
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mandar\AppData\Local\Temp\testng-eclipse-1694805503\testng-customsuite.xml
+
+2024-12-14 14:45:22 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2024-12-14 14:45:43 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2024-12-14 14:45:44 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2024-12-14 14:45:46 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2024-12-14 14:45:46 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2024-12-14 14:45:48 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2024-12-14 14:45:48 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2024-12-14 14:45:48 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@29f0c4f2: 101 ms
+2024-12-14 14:45:48 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7435a578: 0 ms
+2024-12-14 14:45:48 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7551da2a: 14 ms
+2024-12-14 14:45:48 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@77bd7fe7: 11 ms
+2024-12-14 14:45:48 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6b68cb27: 9 ms
+2024-12-14 14:45:48 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@675ffd1d: 0 ms
+2024-12-14 14:46:12 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mandar\AppData\Local\Temp\testng-eclipse--1409135729\testng-customsuite.xml"
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mandar\AppData\Local\Temp\testng-eclipse--1409135729\testng-customsuite.xml
+
+2024-12-14 14:46:12 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+2024-12-14 14:46:33 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2024-12-14 14:46:34 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2024-12-14 14:46:35 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2024-12-14 14:46:35 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2024-12-14 14:46:37 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2024-12-14 14:46:37 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2024-12-14 14:46:38 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@29f0c4f2: 303 ms
+2024-12-14 14:46:38 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7435a578: 1 ms
+2024-12-14 14:46:38 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7551da2a: 16 ms
+2024-12-14 14:46:38 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@77bd7fe7: 12 ms
+2024-12-14 14:46:38 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6b68cb27: 3 ms
+2024-12-14 14:46:38 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@675ffd1d: 0 ms
+2024-12-14 15:40:06 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\Master.xml"
+2024-12-14 15:40:07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\Master.xml
+
+2024-12-14 15:41:46 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\Master.xml"
+2024-12-14 15:41:46 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\Master.xml
+
+2024-12-14 15:42:32 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\Master.xml"
+2024-12-14 15:42:33 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\Master.xml
+
+2024-12-14 15:43:24 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\Master.xml"
+2024-12-14 15:43:24 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\Master.xml
+
+2024-12-14 16:01:37 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\crossbrowsertest.xml"
+2024-12-14 16:01:37 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\crossbrowsertest.xml
+
+2024-12-14 16:05:28 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\crossbrowsertest.xml"
+2024-12-14 16:05:28 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\crossbrowsertest.xml
+
+2024-12-14 16:05:32 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2024-12-14 16:05:57 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2024-12-14 16:06:50 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\Master.xml"
+2024-12-14 16:06:50 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\Master.xml
+
+2024-12-14 16:06:54 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2024-12-14 17:31:54 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\crossbrowsertest.xml"
+2024-12-14 17:31:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\crossbrowsertest.xml
+
+2024-12-14 17:37:25 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\crossbrowsertest.xml"
+2024-12-14 17:37:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\crossbrowsertest.xml
+
+2024-12-15 10:44:56 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\crossbrowsertest.xml"
+2024-12-15 10:44:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\crossbrowsertest.xml
+
+2024-12-15 10:45:18 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2024-12-15 10:45:19 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2024-12-15 10:45:20 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2024-12-15 10:45:20 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2024-12-15 10:45:22 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2024-12-15 10:45:22 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2024-12-15 10:45:22 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2024-12-15 10:45:23 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2024-12-15 10:45:25 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2024-12-15 10:45:25 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2024-12-15 10:45:29 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2024-12-15 10:45:29 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2024-12-15 15:41:59 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\crossbrowsertest.xml"
+2024-12-15 15:41:59 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\crossbrowsertest.xml
+
+2024-12-15 15:42:04 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2024-12-15 15:42:05 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2024-12-15 15:42:06 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2024-12-15 15:42:07 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2024-12-15 15:42:08 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2024-12-15 15:42:08 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2024-12-15 15:42:08 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2024-12-15 15:42:08 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2024-12-15 15:42:11 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2024-12-15 15:42:11 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2024-12-15 15:42:12 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2024-12-15 15:42:12 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2024-12-15 15:42:14 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2024-12-15 15:42:14 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2024-12-15 15:42:15 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2024-12-15 15:42:15 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2024-12-15 15:42:16 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2024-12-15 15:42:17 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2025-02-02 23:23:54 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\Master.xml"
+2025-02-02 23:23:55 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\Master.xml
+
+2025-02-02 23:24:02 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-02-02 23:24:02 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-02-02 23:24:03 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2025-02-02 23:24:03 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2025-02-02 23:24:05 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2025-02-02 23:24:05 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2025-02-03 00:31:05 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\Master.xml"
+2025-02-03 00:31:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\Master.xml
+
+2025-02-03 00:31:11 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-02-03 00:32:13 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\Master.xml"
+2025-02-03 00:32:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\Master.xml
+
+2025-02-03 00:32:17 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-02-03 00:35:11 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\Master.xml"
+2025-02-03 00:35:11 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\Master.xml
+
+2025-02-03 00:35:15 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-02-07 22:13:56 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\Master.xml"
+2025-02-07 22:13:57 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\Master.xml
+
+2025-02-07 22:14:05 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-02-08 19:51:39 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\Master.xml"
+2025-02-08 19:51:40 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\Master.xml
+
+2025-02-08 19:52:03 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 19:52:03 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 19:52:03 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 19:52:04 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 19:52:05 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 19:52:05 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 19:52:05 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 19:52:05 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 19:52:05 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 19:52:05 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 19:52:05 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 19:52:05 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 19:52:05 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 19:52:05 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 19:52:05 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 19:52:05 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 19:52:05 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 19:52:05 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 19:52:05 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 19:52:05 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 19:52:05 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 19:52:05 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 19:52:05 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 19:52:05 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 19:52:05 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 19:52:05 [main] INFO  testCases.TC_003_LoginDDT - ****Starting TC_003_LoginDDT*****
+2025-02-08 19:52:07 [main] INFO  testCases.TC_003_LoginDDT - ****Finished TC_003_LoginDDT*****
+2025-02-08 19:52:07 [main] INFO  testCases.TC_003_LoginDDT - ****Starting TC_003_LoginDDT*****
+2025-02-08 19:52:09 [main] INFO  testCases.TC_003_LoginDDT - ****Starting TC_003_LoginDDT*****
+2025-02-08 19:52:30 [main] INFO  testCases.TC_003_LoginDDT - ****Finished TC_003_LoginDDT*****
+2025-02-08 19:52:30 [main] INFO  testCases.TC_003_LoginDDT - ****Starting TC_003_LoginDDT*****
+2025-02-08 19:52:52 [main] INFO  testCases.TC_003_LoginDDT - ****Finished TC_003_LoginDDT*****
+2025-02-08 19:52:52 [main] INFO  testCases.TC_003_LoginDDT - ****Starting TC_003_LoginDDT*****
+2025-02-08 19:53:14 [main] INFO  testCases.TC_003_LoginDDT - ****Finished TC_003_LoginDDT*****
+2025-02-08 20:20:29 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\Master.xml"
+2025-02-08 20:20:29 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\Master.xml
+
+2025-02-08 20:20:50 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 20:20:50 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 20:20:50 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-02-08 20:20:51 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-08 20:20:51 [main] INFO  testCases.TC_003_LoginDDT - ****Starting TC_003_LoginDDT*****
+2025-02-08 20:20:54 [main] INFO  testCases.TC_003_LoginDDT - ****Finished TC_003_LoginDDT*****
+2025-02-08 20:20:54 [main] INFO  testCases.TC_003_LoginDDT - ****Starting TC_003_LoginDDT*****
+2025-02-08 20:20:56 [main] INFO  testCases.TC_003_LoginDDT - ****Starting TC_003_LoginDDT*****
+2025-02-08 20:21:17 [main] INFO  testCases.TC_003_LoginDDT - ****Finished TC_003_LoginDDT*****
+2025-02-08 20:21:17 [main] INFO  testCases.TC_003_LoginDDT - ****Starting TC_003_LoginDDT*****
+2025-02-08 20:21:39 [main] INFO  testCases.TC_003_LoginDDT - ****Finished TC_003_LoginDDT*****
+2025-02-08 20:21:39 [main] INFO  testCases.TC_003_LoginDDT - ****Starting TC_003_LoginDDT*****
+2025-02-08 20:22:00 [main] INFO  testCases.TC_003_LoginDDT - ****Finished TC_003_LoginDDT*****
+2025-02-09 17:34:32 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\grouping.xml"
+2025-02-09 17:36:08 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\grouping.xml"
+2025-02-09 17:36:09 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\grouping.xml
+
+2025-02-09 17:36:35 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-02-09 17:36:35 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-02-09 17:36:36 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2025-02-09 17:36:36 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2025-02-09 17:36:38 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2025-02-09 17:36:38 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2025-02-09 17:36:59 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-02-09 17:38:02 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\grouping.xml"
+2025-02-09 17:38:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\grouping.xml
+
+2025-02-09 17:38:23 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-02-09 17:38:24 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-02-09 17:38:25 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2025-02-09 17:38:25 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2025-02-09 17:38:26 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2025-02-09 17:38:26 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2025-02-09 17:38:48 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-02-09 17:43:02 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\grouping.xml"
+2025-02-09 17:43:03 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\grouping.xml
+
+2025-02-09 17:43:24 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-02-09 22:27:10 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\grouping.xml"
+2025-02-09 22:27:10 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\grouping.xml
+
+2025-02-09 22:27:22 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-02-09 22:27:22 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-02-09 22:27:23 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2025-02-09 22:27:23 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2025-02-09 22:27:25 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2025-02-09 22:27:25 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2025-02-09 22:27:28 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-02-09 22:31:17 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\grouping.xml"
+2025-02-09 22:31:18 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\grouping.xml
+
+2025-02-09 22:31:22 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-02-09 22:31:23 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-02-09 22:31:24 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2025-02-09 22:31:24 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2025-02-09 22:31:25 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2025-02-09 22:31:25 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2025-02-09 22:31:29 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-02-09 23:15:43 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\grouping.xml"
+2025-02-09 23:15:44 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\grouping.xml
+
+2025-02-09 23:15:48 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-02-09 23:15:48 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-02-09 23:15:49 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2025-02-09 23:15:49 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2025-02-09 23:15:50 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2025-02-09 23:15:50 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2025-02-09 23:15:54 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-02-09 23:24:04 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\Master.xml"
+2025-02-09 23:24:18 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\Master.xml"
+2025-02-09 23:24:40 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\Master.xml"
+2025-02-09 23:24:40 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\Master.xml
+
+2025-02-09 23:24:44 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-02-09 23:24:45 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-02-09 23:24:46 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2025-02-09 23:24:46 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2025-02-09 23:24:47 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2025-02-09 23:24:47 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2025-02-09 23:24:51 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-02-09 23:26:57 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\test-output\testng-failed.xml"
+2025-02-09 23:26:58 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\test-output\testng-failed.xml
+
+2025-02-09 23:27:02 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-02-09 23:36:50 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\Master.xml"
+2025-02-09 23:36:51 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\Master.xml
+
+2025-02-09 23:36:57 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-02-09 23:36:57 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-02-09 23:36:58 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2025-02-09 23:36:58 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2025-02-09 23:37:00 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2025-02-09 23:37:00 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test failed..
+2025-02-09 23:37:00 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Debug logs..
+2025-02-09 23:37:04 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-02-09 23:38:32 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\test-output\testng-failed.xml"
+2025-02-09 23:38:32 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\test-output\testng-failed.xml
+
+2025-02-09 23:38:37 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-02-09 23:38:37 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-02-09 23:38:38 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2025-02-09 23:38:38 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2025-02-09 23:38:40 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2025-02-09 23:38:40 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2025-02-16 09:07:56 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\Master.xml"
+2025-02-16 09:07:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\Master.xml
+
+2025-02-16 09:08:22 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-02-16 09:08:22 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-02-16 09:08:23 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2025-02-16 09:08:23 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2025-02-16 09:08:25 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2025-02-16 09:08:25 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2025-02-16 09:08:46 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-02-16 09:13:14 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\Master.xml"
+2025-02-16 09:13:14 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\Master.xml
+
+2025-02-16 09:13:37 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-02-16 09:13:38 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-02-16 09:13:39 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2025-02-16 09:13:39 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2025-02-16 09:13:41 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2025-02-16 09:13:41 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2025-02-16 09:14:02 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-02-16 09:14:48 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\Master.xml"
+2025-02-16 09:14:48 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\Master.xml
+
+2025-02-16 09:15:09 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-02-16 09:15:09 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-02-16 09:15:10 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2025-02-16 09:15:10 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2025-02-16 09:15:12 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2025-02-16 09:15:13 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test failed..
+2025-02-16 09:15:13 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Debug logs..
+2025-02-16 09:15:33 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-02-16 09:18:11 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\crossbrowsertest.xml"
+2025-02-16 09:18:11 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\crossbrowsertest.xml
+
+2025-02-16 09:18:11 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-02-16 09:18:38 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-02-16 09:18:38 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-02-16 09:18:39 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-02-16 09:18:39 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-02-16 09:23:48 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\Master.xml"
+2025-02-16 09:23:49 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\Master.xml
+
+2025-02-16 09:24:11 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-02-16 09:24:12 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-02-16 09:24:12 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2025-02-16 09:24:12 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2025-02-16 09:24:14 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2025-02-16 09:24:14 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2025-02-16 09:24:35 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-03-15 13:18:56 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\grid-docker.xml"
+2025-03-15 13:20:14 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\grid-docker.xml"
+2025-03-15 13:20:15 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\grid-docker.xml
+
+2025-03-15 13:21:39 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-03-15 13:21:39 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-03-15 13:21:40 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2025-03-15 13:21:40 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2025-03-15 13:21:42 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2025-03-15 13:21:42 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2025-03-15 13:22:03 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-03-15 13:23:59 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\grid-docker.xml"
+2025-03-15 13:24:00 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\grid-docker.xml
+
+2025-03-15 13:24:21 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-03-15 13:24:23 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-03-15 13:24:26 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2025-03-15 13:24:26 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2025-03-15 13:24:28 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2025-03-15 13:24:28 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2025-03-15 13:24:49 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-03-15 13:40:27 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\grid-docker.xml"
+2025-03-15 13:40:27 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\grid-docker.xml
+
+2025-03-15 13:40:49 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-03-15 13:40:50 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-03-15 13:40:51 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2025-03-15 13:40:51 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2025-03-15 13:40:53 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2025-03-15 13:40:53 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2025-03-15 13:41:13 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-03-15 13:45:12 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\grid-docker.xml"
+2025-03-15 13:45:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\grid-docker.xml
+
+2025-03-15 13:45:35 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-03-15 13:45:36 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-03-15 13:45:38 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2025-03-15 13:45:38 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2025-03-15 13:45:40 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2025-03-15 13:45:40 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2025-03-15 13:46:02 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-03-15 13:46:52 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\grid-docker.xml"
+2025-03-15 13:46:52 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\grid-docker.xml
+
+2025-03-15 13:47:14 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-03-15 13:47:15 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-03-15 13:47:16 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2025-03-15 13:47:16 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2025-03-15 13:47:19 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2025-03-15 13:47:19 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2025-03-15 13:47:41 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-03-15 13:52:59 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\grid-docker.xml"
+2025-03-15 13:52:59 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\grid-docker.xml
+
+2025-03-15 13:53:22 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-03-15 13:53:23 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-03-15 13:53:24 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2025-03-15 13:53:24 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2025-03-15 13:53:26 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2025-03-15 13:53:26 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2025-03-15 13:53:48 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-03-17 14:17:12 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\docker-compose.yaml"
+2025-03-17 14:26:09 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\grid-docker.xml"
+2025-03-17 14:26:09 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\grid-docker.xml
+
+2025-03-17 14:26:36 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-03-17 14:26:37 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-03-17 14:26:39 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2025-03-17 14:26:39 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2025-03-17 14:26:41 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2025-03-17 14:26:42 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2025-03-17 14:27:05 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-03-17 16:41:00 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\grid-docker.xml"
+2025-03-17 16:41:01 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\grid-docker.xml
+
+2025-03-17 16:41:24 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-03-17 16:41:25 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-03-17 16:41:25 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2025-03-17 16:41:25 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2025-03-17 16:41:27 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2025-03-17 16:41:27 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2025-03-17 16:41:48 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-03-17 17:06:02 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\grid-docker.xml"
+2025-03-17 17:06:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Mandar\eclipse-workspace\OpencartV121\grid-docker.xml
+
+2025-03-17 17:06:23 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-03-17 17:06:24 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-03-17 17:06:24 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2025-03-17 17:06:24 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2025-03-17 17:06:27 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2025-03-17 17:06:28 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2025-03-17 17:06:48 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-03-17 17:35:03 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\Master.xml"
+2025-03-17 17:35:26 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-03-17 17:35:26 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-03-17 17:35:27 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2025-03-17 17:35:27 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2025-03-17 17:35:29 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2025-03-17 17:35:29 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2025-03-17 17:35:49 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-03-17 17:54:32 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\Master.xml"
+2025-03-17 17:54:55 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-03-17 17:54:55 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-03-17 17:54:56 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2025-03-17 17:54:56 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2025-03-17 17:54:58 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2025-03-17 17:54:58 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2025-03-17 17:55:19 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 
+2025-03-17 18:55:22 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Mandar\eclipse-workspace\OpencartV121\Master.xml"
+2025-03-17 18:55:47 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest*****
+2025-03-17 18:55:47 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on myaccount link
+2025-03-17 18:55:48 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+2025-03-17 18:55:48 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer detail..
+2025-03-17 18:55:51 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+2025-03-17 18:55:51 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest******* 
+2025-03-17 18:56:12 [main] INFO  testCases.TC_002_LoginTest - ******starting TC_002_Logintest******** 

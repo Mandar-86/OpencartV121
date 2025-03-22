@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO">
+<Properties>
+	<Property name="basePath">./logs</Property>
+</Properties>
+
+    <!-- Appenders: Defines where to log output -->
+    <Appenders>
+        
+        <!-- Console Appender: Logs messages to the console -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n%throwable"/>
+        </Console>
+
+       !-- File Appender: Logs messages to a file -->
+        <File name="File" fileName="${basePath}/automation-framework.log" filePattern="${basePath}/automation-%d{yyyy-MM-dd}.log">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n%throwable"/>
+            <Policies> 
+                <!-- RollingFilePolicy to roll over the log file when it exceeds 10 MB -->
+                <SizeBasedTriggeringPolicy size="10MB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="10"/>
+        </File>
+
+    </Appenders>
+
+    <!-- Loggers: Defines different levels of logging -->
+    <Loggers>
+        
+        <!-- Root Logger: This is the default logger -->
+        <Root level="Debug">
+            <!--AppenderRef ref="Console"/>-->
+            <AppenderRef ref="File"/>
+        </Root>
+
+        <!-- Custom Logger for specific packages or classes -->
+        <Logger name="com.yourcompany.framework" level="info" additivity="false">
+            <AppenderRef ref="File"/>
+        </Logger>
+
+        <!-- Custom Logger for another package -->
+        <Logger name="com.yourcompany.test" level="debug" additivity="false">
+            <AppenderRef ref="File"/>
+        </Logger>
+
+    </Loggers>
+</Configuration>
